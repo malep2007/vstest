@@ -1,0 +1,11 @@
+﻿body {
+    display: -ms-grid; 
+    -ms-grid-row: 1px;
+    -ms-grid-column: 1px;
+}
+
+#mainContent {
+    display: -ms-grid;
+    -ms-grid-column: 1px;
+
+}
